@@ -6,3 +6,4 @@ public:
         std::cout << "Motor_api initialized." << std::endl;
     }
 };
+// Memory layout adjusted for cache hit rate
