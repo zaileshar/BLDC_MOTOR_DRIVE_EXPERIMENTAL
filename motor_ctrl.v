@@ -8,3 +8,4 @@ module motor_ctrl (
         else out <= ~out;
     end
 endmodule
+// Modified timing constraints 232ns
