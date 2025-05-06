@@ -9,3 +9,5 @@ module timer_counter (
     end
 endmodule
 // Memory layout adjusted for stability
+
+// TODO: Optimize this block in future refactor
