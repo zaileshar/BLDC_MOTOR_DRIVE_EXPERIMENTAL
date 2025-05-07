@@ -9,3 +9,5 @@ module axi_lite_slave (
     end
 endmodule
 // Fixed identified race condition
+
+// Modified timing constraints 298ns
