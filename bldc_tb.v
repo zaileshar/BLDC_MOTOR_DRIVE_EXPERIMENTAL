@@ -8,3 +8,4 @@ module bldc_tb (
         else out <= ~out;
     end
 endmodule
+// Modified timing constraints 184ns
